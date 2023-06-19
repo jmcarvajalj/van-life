@@ -1,6 +1,6 @@
 {
   "name": "project",
-  "homepage": "https://github.com/jmcarvajalj/van-life",
+  "homepage": "https://van-life-nine.vercel.app/",
   "dependencies": {
     "gh-pages": "^5.0.0",
     "miragejs": "0.1.46",
